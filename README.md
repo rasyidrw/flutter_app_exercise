@@ -1,6 +1,6 @@
 # flutter_app_exercise
 
-A new Flutter project.
+Compilation of flutter app exercises.
 
 ## Getting Started
 
