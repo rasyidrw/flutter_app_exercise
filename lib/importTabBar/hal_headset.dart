@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class Smartphone extends StatelessWidget {
+class Headset extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new Container(
@@ -11,15 +11,15 @@ class Smartphone extends StatelessWidget {
               padding: new EdgeInsets.all(20.0),
             ),
             new Text(
-              "SMARTPHONE",
+              "HEADSET",
               style: new TextStyle(fontSize: 30.0),
             ),
             new Padding(
               padding: new EdgeInsets.all(20.0),
             ),
-            new Icon(
-              Icons.smartphone,
-              size: 90.0,
+            new Image.asset(
+              "img/headset.jpg",
+              width: 200.0,
             )
           ],
         ),
