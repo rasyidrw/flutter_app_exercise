@@ -44,8 +44,6 @@ flutter:
   assets:
     - img/headset.jpg
     - img/imac.jpg
-    - img/iphone.jpg
-    - img/radio.jpg
 
   # To add assets to your application, add an assets section, like this:
   # assets:

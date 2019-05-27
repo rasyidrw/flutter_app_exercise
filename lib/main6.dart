@@ -16,7 +16,7 @@ class PageOne extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("MUSIC"),
+        title: new Text("Navigation Music"),
       ),
       body: new Center(
         child: new IconButton(
@@ -35,7 +35,7 @@ class PageTwo extends StatelessWidget {
   Widget build(BuildContext context) {
     return new Scaffold(
       appBar: new AppBar(
-        title: new Text("SPEAKER"),
+        title: new Text("Navigation Speaker"),
       ),
       body: new Center(
         child: new IconButton(
